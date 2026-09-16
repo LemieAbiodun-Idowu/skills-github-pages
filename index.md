@@ -1,6 +1,4 @@
----
-title: Welcome to my blog!
----
+# Lemin's Laughs
 Hello, my name is Lemie and I'm excited to be bringing all the content that I can as I go on this journey to not be a complete waste of space.
 
 This is a ~~strikethrough~~
